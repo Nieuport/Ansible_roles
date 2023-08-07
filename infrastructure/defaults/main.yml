@@ -1,0 +1,5 @@
+defaults/main.yml
+
+deployment_path: "~/Infrastructure"
+git_repository: "https://github.com/Nieuport/Infrastructure"
+git_branch: "main"
